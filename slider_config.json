@@ -1,5 +1,5 @@
 [
-  {"asset": "slider/slide1.jpg", "url": "https://picsum.photos/800/400?random=1"},
-  {"asset": "slider/slide2.jpg", "url": "https://picsum.photos/800/400?random=2"},
-  {"asset": "slider/slide3.jpg", "url": "https://picsum.photos/800/400?random=3"}
+  {"asset": "slider/slide1.jpg", "url": "https://picsum.photos/id/10/800/400"},
+  {"asset": "slider/slide2.jpg", "url": "https://picsum.photos/id/20/800/400"},
+  {"asset": "slider/slide3.jpg", "url": "https://picsum.photos/id/30/800/400"}
 ]

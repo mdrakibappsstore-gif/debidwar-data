@@ -1,0 +1,88 @@
+{
+  "promo": {
+    "title": "🎉 বিশেষ অফার চলছে!",
+    "subtitle": "সীমিত সময়ের জন্য সকল সার্ভিসে ১০% ছাড়",
+    "badge": "মাত্র ২ দিন বাকি",
+    "color": "#E53935",
+    "active": true
+  },
+  "services": [
+    {
+      "id": "1",
+      "name": "ডেলিভারি সেবা",
+      "icon": "🛵",
+      "description": "আপনার দরজায় পৌঁছে দেবো",
+      "price": "সম্পূর্ণ বিনামূল্যে",
+      "discount": "ফ্রি",
+      "color": "#1B5E20",
+      "available": true,
+      "whatsapp": "971542758007"
+    },
+    {
+      "id": "2",
+      "name": "বাইক রাইডার",
+      "icon": "🏍️",
+      "description": "দ্রুত ও সাশ্রয়ী যাতায়াত",
+      "price": "সাশ্রয়ী মূল্যে",
+      "discount": "১০% ছাড়",
+      "color": "#1A237E",
+      "available": true,
+      "whatsapp": "971542758007"
+    },
+    {
+      "id": "3",
+      "name": "সিএনজি / অটো",
+      "icon": "🛺",
+      "description": "আরামদায়ক যাতায়াত",
+      "price": "সাশ্রয়ী মূল্যে",
+      "discount": "১০% ছাড়",
+      "color": "#E65100",
+      "available": true,
+      "whatsapp": "971542758007"
+    },
+    {
+      "id": "4",
+      "name": "রিজার্ভ গাড়ি",
+      "icon": "🚗",
+      "description": "যেকোনো গন্তব্যে রিজার্ভ",
+      "price": "সাশ্রয়ী মূল্যে",
+      "discount": "১০% ছাড়",
+      "color": "#4A148C",
+      "available": true,
+      "whatsapp": "971542758007"
+    },
+    {
+      "id": "5",
+      "name": "রাতের গাড়ি",
+      "icon": "🌙",
+      "description": "রাত ১০টা থেকে ভোর ৬টা",
+      "price": "বিশেষ রাতের রেট",
+      "discount": "১০% ছাড়",
+      "color": "#006064",
+      "available": true,
+      "whatsapp": "971542758007"
+    },
+    {
+      "id": "6",
+      "name": "মাইক্রো বাস",
+      "icon": "🚐",
+      "description": "দলগত যাতায়াতে সেরা",
+      "price": "সাশ্রয়ী মূল্যে",
+      "discount": "১০% ছাড়",
+      "color": "#37474F",
+      "available": true,
+      "whatsapp": "971542758007"
+    },
+    {
+      "id": "7",
+      "name": "পিকআপ ভ্যান",
+      "icon": "🛻",
+      "description": "মালামাল পরিবহনে বিশ্বস্ত",
+      "price": "সাশ্রয়ী মূল্যে",
+      "discount": "১০% ছাড়",
+      "color": "#BF360C",
+      "available": true,
+      "whatsapp": "971542758007"
+    }
+  ]
+}

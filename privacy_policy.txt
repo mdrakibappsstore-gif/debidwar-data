@@ -1,0 +1,258 @@
+Privacy Policy – আমাদের দেবিদ্বার (Amader Debidwar)
+
+App Name: আমাদের দেবিদ্বার (Amader Debidwar)
+Package Name: com.amar.debidwar
+Developer: Md. Shakil Ahmed
+Contact Email: mdrakibappsstore@gmail.com
+Contact WhatsApp: +971542758007
+Last Updated: June 2026
+
+─────────────────────────────────────────────────────────
+
+Welcome to আমাদের দেবিদ্বার. This Privacy Policy explains how we collect, use, store, and protect information when you use our mobile application. By downloading and using this application, you agree to the practices described in this Privacy Policy. Please read this policy carefully before using the application.
+
+─────────────────────────────────────────────────────────
+1. ABOUT THIS APPLICATION
+─────────────────────────────────────────────────────────
+
+আমাদের দেবিদ্বার is an independent, non-commercial, community-driven mobile application developed to assist the residents of Debidwar Upazila, Cumilla, Bangladesh. The application provides access to local service directories, union information, emergency contacts, prayer times, delivery services, and other community resources — all in one place.
+
+This application is developed and maintained by an individual developer as a voluntary public service initiative. It is not a commercial product and does not generate any profit from user data.
+
+─────────────────────────────────────────────────────────
+2. INFORMATION WE COLLECT
+─────────────────────────────────────────────────────────
+
+2.1 Information Provided Voluntarily by Users
+
+The application may collect the following information directly from the user during initial setup or when using certain features:
+
+• User Name – The user's name is collected voluntarily during the initial setup screen (WelcomeActivity). This is stored locally on the user's device to personalize the experience, such as displaying a greeting on the home screen.
+
+• Union Name – The user selects their union from a list of 15 unions in Debidwar Upazila. This is stored locally on the device to display relevant local services and providers based on the user's area.
+
+• Ward Number – Entered only when the user manually uses the delivery service feature to identify the delivery area.
+
+Important Storage Notice:
+All of the above information is stored exclusively on the user's own device using Android SharedPreferences. This information is never transmitted to any developer-owned server, cloud database, or third-party database. The developer has no access to this information at any time.
+
+─────────────────────────────────────────────────────────
+
+2.2 Location Information
+
+The application requests access to device location data only when the user explicitly chooses to use the Delivery Service feature (DeliveryActivity).
+
+• Location access is triggered only when the user taps the "Send Location" button within the Delivery Service screen.
+
+• Location permission is requested at runtime. The user must actively grant permission before any location data is accessed.
+
+• The obtained location coordinates are converted into a Google Maps link and shared through WhatsApp — only to facilitate the user's delivery request.
+
+• The developer does not store, record, or maintain any database of user location information.
+
+• Background location tracking is never performed. The application does not access location when running in the background.
+
+• Users may deny or revoke location permission at any time through device settings.
+
+To revoke location permission:
+Settings → Apps → আমাদের দেবিদ্বার → Permissions → Location → Deny
+
+─────────────────────────────────────────────────────────
+
+2.3 Favorites Data
+
+When the user saves a service provider using the Favorites (❤️) button, the provider's name, phone number, WhatsApp number, address, and category are saved locally on the device using Android SharedPreferences. This data never leaves the user's device and is not accessible by the developer.
+
+─────────────────────────────────────────────────────────
+
+2.4 Information We Do NOT Collect
+
+আমাদের দেবিদ্বার does not collect, store, access, or transmit any of the following:
+
+• Phone numbers stored in the device contacts
+• Financial, banking, or credit card information
+• Background location data
+• Camera or microphone recordings
+• Browsing history or activity from other applications
+• Email addresses of users
+• Biometric data of any kind
+• Any personal data from children under the age of 13
+
+─────────────────────────────────────────────────────────
+3. HOW WE USE INFORMATION
+─────────────────────────────────────────────────────────
+
+Information collected within the application is used solely for the following purposes:
+
+• Displaying a personalized greeting with the user's name on the home screen
+• Showing union-specific local services, ward information, and provider directories
+• Processing delivery service requests by generating a location link
+• Saving and retrieving the user's favorite service providers for quick access
+• Improving the overall user experience and application functionality
+
+We do not use any collected information for advertising, marketing, profiling, or any commercial purpose whatsoever.
+
+─────────────────────────────────────────────────────────
+4. DATA STORAGE AND PROCESSING
+─────────────────────────────────────────────────────────
+
+User information is handled as follows:
+
+• SharedPreferences – Stores user name, union selection, notification read status, and favorite providers locally on the device only.
+
+• Offline JSON Asset Files – Service directories and community information are bundled within the application package and stored locally on the device. No internet connection is required to access this data.
+
+• Cache Storage – Temporary update files downloaded from GitHub are stored locally on the device for performance improvement. These files contain only publicly available community service data — not any personal user information.
+
+• WhatsApp – Delivery requests and feedback messages are shared directly through WhatsApp only when initiated by the user. The developer does not intercept, record, or store these messages.
+
+No Remote Database:
+The developer does not operate any remote server or database that stores user personal information. All personal data remains on the user's device at all times.
+
+─────────────────────────────────────────────────────────
+5. THIRD-PARTY SERVICES AND LIBRARIES
+─────────────────────────────────────────────────────────
+
+The application integrates the following third-party services and libraries, which may have their own privacy policies:
+
+• Google Play Services (Location API) – Used to obtain GPS coordinates only when the user requests delivery service. Governed by Google's Privacy Policy.
+
+• GitHub Raw Content Service – Used to retrieve publicly available community data updates, including union directories, notices, sliders, and service lists. No personal user data is transmitted to GitHub.
+
+• WhatsApp Messaging Service – Used only when the user voluntarily chooses to send a delivery request or feedback message. Governed by WhatsApp's Privacy Policy.
+
+• AndroidX Libraries – Core Android functionality and UI components including AppCompat, RecyclerView, CardView, DrawerLayout, Material Components, NestedScrollView, and ViewPager. These libraries do not collect personal data.
+
+• OkHttp3 – Used for network requests to retrieve community data updates from GitHub. No personal user data is transmitted through this library.
+
+We encourage users to review the privacy policies of these third-party services for full details on how they handle data.
+
+─────────────────────────────────────────────────────────
+6. PERMISSIONS USED
+─────────────────────────────────────────────────────────
+
+The application may request the following Android permissions:
+
+• ACCESS_FINE_LOCATION – To obtain accurate GPS coordinates for delivery service requests only. Never used for background tracking.
+
+• ACCESS_COARSE_LOCATION – To obtain approximate location when precise GPS is unavailable. Used only during delivery service requests.
+
+• INTERNET – To download publicly available community directory updates from GitHub.
+
+• ACCESS_NETWORK_STATE – To check network connectivity status before attempting to load online content.
+
+All location permissions are requested at runtime and require explicit user approval before use. No permissions are used beyond their stated purposes described above.
+
+─────────────────────────────────────────────────────────
+7. GOVERNMENT AND PUBLIC SERVICE DISCLAIMER
+─────────────────────────────────────────────────────────
+
+IMPORTANT NOTICE:
+
+আমাদের দেবিদ্বার is a fully independent, privately developed community assistance application. It is NOT affiliated with, endorsed by, authorized by, sponsored by, or operated by:
+
+• The Government of the People's Republic of Bangladesh
+• Any government ministry, department, or agency
+• Debidwar Upazila Administration or Upazila Nirbahi Office
+• Any Union Parishad or local government body
+• Any public authority or official institution of any kind
+
+The use of union names and upazila information within this application is solely for geographic area identification to help users find local community services. This does not imply any official government association or endorsement.
+
+Additionally:
+• The application does not submit any user information to government databases.
+• The application does not process official government applications or requests.
+• The application does not provide official government approvals, certifications, or legal documents.
+• Any guidance provided through WhatsApp is for general informational purposes only and does not constitute official government advice.
+• For official government services, users should contact their respective Union Parishad office or visit the official portal at www.debidwar.comilla.gov.bd.
+
+─────────────────────────────────────────────────────────
+8. COMMUNITY DIRECTORY DATA
+─────────────────────────────────────────────────────────
+
+The service provider directories displayed within the application — including names, phone numbers, and addresses of local individuals and businesses — are sourced from:
+
+• Community volunteers who voluntarily contributed information
+• Publicly available local business listings
+• Individuals who have voluntarily agreed to have their information included
+• Publicly available government information portals
+
+Removal Request:
+Any individual or business listed within the application directory has the right to request removal or correction of their information at any time by contacting us at:
+
+Email: mdrakibappsstore@gmail.com
+WhatsApp: +971542758007
+
+Verified removal requests will be processed as promptly as possible.
+
+─────────────────────────────────────────────────────────
+9. DATA SECURITY
+─────────────────────────────────────────────────────────
+
+We take reasonable and appropriate measures to protect information stored on the user's device. Since the application does not operate a remote server or database, most user data remains within the secure Android operating system environment on the user's personal device.
+
+However, please note that no method of electronic storage or data transmission can be guaranteed to be completely secure. Users are encouraged to protect their devices with appropriate security measures such as screen locks and device encryption.
+
+─────────────────────────────────────────────────────────
+10. CHILDREN'S PRIVACY
+─────────────────────────────────────────────────────────
+
+আমাদের দেবিদ্বার is not specifically directed toward children under the age of 13. We do not knowingly collect personal information from children under 13 years of age.
+
+If a parent or guardian becomes aware that their child under 13 has provided personal information through this application, they should contact us immediately at mdrakibappsstore@gmail.com. Upon confirmation, we will take prompt steps to address the situation.
+
+─────────────────────────────────────────────────────────
+11. USER RIGHTS
+─────────────────────────────────────────────────────────
+
+Users of আমাদের দেবিদ্বার have the following rights:
+
+• Right to Access – Users can view their locally stored preferences at any time within the application.
+
+• Right to Modify – Users can update their name and union selection at any time through the "ইউনিয়ন পরিবর্তন" (Change Union) option in the navigation drawer.
+
+• Right to Delete – Users can delete all locally stored data by clearing the application data through Android device settings or by uninstalling the application.
+
+• Right to Revoke Permissions – Users may revoke any permission, including location access, at any time through Android device settings.
+
+• Right to Request Removal – Any individual listed in the community directory may request removal of their information by contacting us directly.
+
+─────────────────────────────────────────────────────────
+12. CHANGES TO THIS PRIVACY POLICY
+─────────────────────────────────────────────────────────
+
+We reserve the right to update or modify this Privacy Policy at any time. When changes are made, the "Last Updated" date at the top of this policy will be revised accordingly.
+
+Significant changes may be communicated through application updates or in-app notifications. Continued use of the application after any changes to this Privacy Policy constitutes your acceptance of the updated policy.
+
+If you disagree with any part of this Privacy Policy or its updates, please discontinue use of the application and uninstall it from your device.
+
+─────────────────────────────────────────────────────────
+13. ACCEPTANCE OF THIS POLICY
+─────────────────────────────────────────────────────────
+
+By downloading, installing, and using আমাদের দেবিদ্বার, you confirm that you have read, understood, and agreed to this Privacy Policy. If you do not agree with any part of this policy, please do not use the application.
+
+─────────────────────────────────────────────────────────
+14. CONTACT US
+─────────────────────────────────────────────────────────
+
+If you have any questions, concerns, feedback, or requests regarding this Privacy Policy or your data, please contact us through any of the following channels:
+
+Email:    mdrakibappsstore@gmail.com
+WhatsApp: +971542758007
+Address:  Debidwar Upazila, Cumilla, Bangladesh
+
+We aim to respond to all privacy-related inquiries within 7 business days.
+
+─────────────────────────────────────────────────────────
+
+আমাদের দেবিদ্বার (Amader Debidwar)
+Package: com.amar.debidwar
+Developer: Md. Shakil Ahmed
+Email: mdrakibappsstore@gmail.com
+
+© 2026 আমাদের দেবিদ্বার — All Rights Reserved
+Last Updated: June 2026
+
+─────────────────────────────────────────────────────────

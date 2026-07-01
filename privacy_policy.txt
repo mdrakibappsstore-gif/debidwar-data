@@ -128,6 +128,34 @@ The application integrates the following third-party services and libraries, whi
 We encourage users to review the privacy policies of these third-party services for full details on how they handle data.
 
 ─────────────────────────────────────────────────────────
+5.1 CHAT ASSISTANT FEATURE (উপজেলা সহায়িকা)
+─────────────────────────────────────────────────────────
+
+The application includes a built-in "উপজেলা সহায়িকা" (Upazila Assistant) feature that serves as a local community information guide. Please note the following important details regarding its operation:
+
+Technology:
+This feature is a rule-based keyword matching system powered entirely by locally cached JSON files retrieved from GitHub. It does NOT utilize any form of Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), or Large Language Models (LLMs) such as ChatGPT, Gemini, or similar technologies. The assistant does not "learn," "train," or improve from user conversations in any way.
+
+Data Processing:
+When a user submits a question or message, the application performs a simple keyword comparison against a pre-defined, static list of questions and answers stored in a JSON file. This process occurs entirely within the application on the user's device. No external AI API calls are made.
+
+Privacy:
+• All chat messages and questions entered by the user remain strictly on the user's device.
+• We do not transmit, store, log, or record any chat history, questions, or personal queries on any remote server, cloud platform, or third-party database.
+• Chat history is not retained after the user closes the application session.
+• No user profiling or behavioral analysis is performed based on chat interactions.
+
+No Personalization:
+The assistant does not personalize responses based on the user's private behavioral patterns, location history, or personal data. All responses are based solely on static, publicly available community information about Debidwar Upazila that has been pre-defined by the application developer.
+
+Doctor Finder Feature:
+The application includes a multi-step doctor finder flow within the assistant. Users may search for doctors by specialization and area. This feature:
+• Only displays information pre-loaded from a publicly available JSON file on GitHub.
+• Does not access any medical databases or official health registries.
+• Does not store or transmit the user's medical queries or health-related searches.
+• All displayed doctor information is sourced from community volunteers and public listings, and may not reflect current availability. Users are advised to verify information directly with the respective healthcare provider.
+
+─────────────────────────────────────────────────────────
 6. PERMISSIONS USED
 ─────────────────────────────────────────────────────────
 

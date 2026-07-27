@@ -5,7 +5,7 @@ Package Name: com.amar.debidwar
 Developer: Md. Shakil Ahmed
 Contact Email: mdrakibappsstore@gmail.com
 Contact WhatsApp: +971542758007
-Last Updated: 04,07,2026
+Last Updated: 27,07,2026
 
 ─────────────────────────────────────────────────────────
 
@@ -67,7 +67,19 @@ When the user saves a service provider using the Favorites (❤️) button, the 
 
 ─────────────────────────────────────────────────────────
 
-2.4 Information We Do NOT Collect
+2.4 Provider Submission Data
+
+The application includes an "Add Provider" feature, available under union service lists and bazar category lists, that allows users to voluntarily submit information about a new service provider for the community directory.
+
+When a user submits this form, the following information is collected: the provider's name, phone number, WhatsApp number (optional), address, and the relevant union, ward, and service or bazar category.
+
+This submitted information is sent directly to a private GitHub Issue within the developer's repository for manual review. The developer personally reviews each submission before deciding whether to add it to the public community directory or reject it.
+
+This feature does not create a user account and does not collect any identifying information about the person submitting the form (such as their own name or device details) — only the information entered about the suggested provider is transmitted.
+
+─────────────────────────────────────────────────────────
+
+2.5 Information We Do NOT Collect
 
 আমাদের দেবিদ্বার does not collect, store, access, or transmit any of the following:
 
@@ -110,8 +122,11 @@ User information is handled as follows:
 
 • WhatsApp – Delivery requests and feedback messages are shared directly through WhatsApp only when initiated by the user. The developer does not intercept, record, or store these messages.
 
-No Remote Database:
-The developer does not operate any remote server or database that stores user personal information. All personal data remains on the user's device at all times.
+No Remote Database for Personal Preferences:
+The developer does not operate any remote server or database that stores the user's own personal preferences (name, union selection, ward number, or favorites) — this information remains on the user's device at all times, as described in Section 2.1 and 2.3.
+
+Exception – Provider Submissions:
+The only exception is the voluntarily submitted provider information described in Section 2.4 ("Add Provider" feature). When a user chooses to submit a new provider for the community directory, that specific information (the provider's name, phone number, WhatsApp number, address, and category) is sent to and temporarily stored in a private GitHub Issue for manual review, as explained in Section 2.4 and Section 5.
 
 ─────────────────────────────────────────────────────────
 5. THIRD-PARTY SERVICES AND LIBRARIES
@@ -122,6 +137,8 @@ The application integrates the following third-party services and libraries, whi
 • Google Play Services (Location API) – Used to obtain GPS coordinates only when the user requests delivery service. Governed by Google's Privacy Policy.
 
 • GitHub Raw Content Service – Used to retrieve publicly available community data updates, including union directories, notices, sliders, and service lists. No personal user data is transmitted to GitHub.
+
+• GitHub Issues API – Used to receive new service provider submissions from users through the "Add Provider" feature described in Section 2.4. Submitted information (provider name, phone number, WhatsApp number, address, and category) is sent to a private GitHub Issue for manual review before being added to the public community directory. Governed by GitHub's Privacy Policy.
 
 • WhatsApp Messaging Service – Used only when the user voluntarily chooses to send a delivery request or feedback message. Governed by WhatsApp's Privacy Policy.
 
@@ -291,6 +308,6 @@ Developer: Md. Shakil Ahmed
 Email: mdrakibappsstore@gmail.com
 
 © 2026 আমাদের দেবিদ্বার — All Rights Reserved
-Last Updated: 04,07,2026
+Last Updated: 27,07,2026
 
 ─────────────────────────────────────────────────────────

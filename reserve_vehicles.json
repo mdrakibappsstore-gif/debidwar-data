@@ -1,0 +1,170 @@
+{
+  "vehicle_types": [
+    {
+      "id": "cng",
+      "name": "রিজার্ভ সিএনজি",
+      "icon": "🛺",
+      "color": "#F57F17"
+    },
+    {
+      "id": "auto",
+      "name": "রিজার্ভ অটো রিক্সা",
+      "icon": "🛺",
+      "color": "#00838F"
+    },
+    {
+      "id": "car",
+      "name": "রিজার্ভ মাইক্রো/প্রাইভেট কার",
+      "icon": "🚗",
+      "color": "#1565C0"
+    },
+    {
+      "id": "pickup",
+      "name": "পিক আপ",
+      "icon": "🛻",
+      "color": "#4527A0"
+    },
+    {
+      "id": "bike",
+      "name": "বাইক রাইডার",
+      "icon": "🏍️",
+      "color": "#37474F"
+    },
+    {
+      "id": "tractor",
+      "name": "টলি ট্রাক্টর",
+      "icon": "🚜",
+      "color": "#2E7D32"
+    }
+  ],
+  "unions": {
+    "বড়শালঘর": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "ইউসুফপুর": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "রসুলপুর": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "সুবিল": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "ফতেহাবাদ": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "এলাহাবাদ": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "জাফরগঞ্জ": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "গুনাইঘর উঃ": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "গুনাইঘর দঃ": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "রাজামেহের": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "ভানী": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "ধামতী": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "সুলতানপুর": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "বরকামতা": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "মোহনপুর": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    },
+    "পৌরসভা": {
+      "cng": [],
+      "auto": [],
+      "car": [],
+      "pickup": [],
+      "bike": [],
+      "tractor": []
+    }
+  }
+}

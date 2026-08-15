@@ -63,7 +63,16 @@
       "tractor": []
     },
     "সুবিল": {
-      "cng": [],
+      "cng": [
+        {
+          "name": "Robiul",
+          "experience": "8",
+          "ward": "6",
+          "phone": "01812208728",
+          "whatsapp": "0559726106",
+          "address": "shebonogur"
+        }
+      ],
       "auto": [],
       "car": [],
       "pickup": [],

@@ -13,6 +13,14 @@
           "address": "চান্দিনা বাজার",
           "rating": 0,
           "review": "তথ্য সংগ্রহ করা হচ্ছে — সঠিক তথ্য দিতে যোগাযোগ করুন"
+        },
+        {
+          "name": "এডমিন test data",
+          "phone": "01852147558",
+          "whatsapp": "",
+          "address": "চান্দিনা বাজার",
+          "review": "এডমিন টেস্ট ডাটা",
+          "photo": "https:\/\/res.cloudinary.com\/hqkcaffh\/image\/upload\/v1786952610\/provider_01852147558.jpg"
         }
       ]
     },

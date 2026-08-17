@@ -39,7 +39,17 @@
   ],
   "unions": {
     "বড়শালঘর": {
-      "cng": [],
+      "cng": [
+        {
+          "name": "এডমিন test data",
+          "experience": "এডমিন",
+          "ward": "1",
+          "phone": "01885522000",
+          "whatsapp": "",
+          "address": "এডমিন টেস্ট ডাটা",
+          "photo": ""
+        }
+      ],
       "auto": [],
       "car": [],
       "pickup": [],

@@ -79,16 +79,5 @@
       "icon": "🧠"
     }
   ],
-  "doctors": [
-    {
-      "location": "কুমিল্লা সদর",
-      "specializationId": "eye",
-      "name": "মজজজ",
-      "phone": "0885554888",
-      "whatsapp": "",
-      "description": "বহহহ",
-      "chamber": "হহহহ",
-      "photo": ""
-    }
-  ]
+  "doctors": []
 }

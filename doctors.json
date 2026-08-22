@@ -79,5 +79,16 @@
       "icon": "🧠"
     }
   ],
-  "doctors": []
+  "doctors": [
+    {
+      "location": "কুমিল্লা সদর",
+      "specializationId": "eye",
+      "name": "শাকিল আহমেদ এডমিন test data",
+      "phone": "01822222222",
+      "whatsapp": "",
+      "description": "এডমিন test data",
+      "chamber": "এডমিন test data",
+      "photo": ""
+    }
+  ]
 }

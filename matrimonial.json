@@ -1,1 +1,18 @@
-{"listings": []}
+{
+  "listings": [
+    {
+      "type": "পাত্রী",
+      "name": "খাদিজা",
+      "age": "18",
+      "religion": "ইসলাম",
+      "maritalStatus": "অবিবাহিত",
+      "height": "৫, ৪ ইঞ্চি",
+      "education": "এসএসসি",
+      "occupation": "গৃহিণী",
+      "union": "রাজামেহার",
+      "phone": "01852421565",
+      "whatsapp": "08524958495",
+      "photo": ""
+    }
+  ]
+}

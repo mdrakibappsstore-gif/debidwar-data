@@ -29,7 +29,15 @@
       "name": "মসজিদ",
       "icon": "🕋",
       "color": "#00695C"
+    },
+
+  {
+      "id": "mondil",
+      "name": "মন্দির",
+      "icon": "🛕",
+      "color": "#00595C"
     }
+   
   ],
   "institutions": {
     "college": [

@@ -1,12 +1,3 @@
 {
-  "donors": [
-    {
-      "name": "শাকিল আহমেদ",
-      "blood": "O+",
-      "union": "রাজামেহের",
-      "village": "গোবিন্দপুর",
-      "phone": "01852152456",
-      "available": true
-    }
-  ]
+  "donors": []
 }

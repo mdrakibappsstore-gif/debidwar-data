@@ -29,6 +29,21 @@
       "whatsapp": "01756215233",
       "photo": "",
       "createdAt": "২৬ সেপ্টেম্বর, ২০২৬"
+    },
+    {
+      "type": "পাত্র",
+      "name": "দিপ",
+      "age": "18",
+      "religion": "হিন্দু",
+      "maritalStatus": "অবিবাহিত",
+      "height": "৫ফুট৫ ইঞ্চি",
+      "education": "৮পাস",
+      "occupation": "ব্যাবসা",
+      "union": "বরকামতা ৫নং",
+      "phone": "01777672362",
+      "whatsapp": "",
+      "photo": "",
+      "createdAt": "২ অক্টোবর, ২০২৬"
     }
   ]
 }

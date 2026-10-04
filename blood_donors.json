@@ -39,6 +39,14 @@
       "village": "গুনাইঘর",
       "phone": "01608854200",
       "available": true
+    },
+    {
+      "name": "আবু কাউছার সরকার",
+      "blood": "O+",
+      "union": "বড়শালঘর",
+      "village": "ভবানীপুর",
+      "phone": "01709060811",
+      "available": true
     }
   ]
 }

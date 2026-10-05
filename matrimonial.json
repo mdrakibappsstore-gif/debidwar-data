@@ -29,6 +29,21 @@
       "whatsapp": "",
       "photo": "",
       "createdAt": "২ অক্টোবর, ২০২৬"
+    },
+    {
+      "type": "পাত্র",
+      "name": "TAJUL",
+      "age": "27",
+      "religion": "ইসলাম",
+      "maritalStatus": "আবিবাহিত",
+      "height": "5 ফুট 6",
+      "education": "8",
+      "occupation": "বর্তমানে মালয়েশিয়া",
+      "union": "পৌরসভা",
+      "phone": "01634561920",
+      "whatsapp": "+6014856752",
+      "photo": "",
+      "createdAt": "৫ অক্টোবর, ২০২৬"
     }
   ]
 }

@@ -47,6 +47,14 @@
       "village": "ভবানীপুর",
       "phone": "01709060811",
       "available": true
+    },
+    {
+      "name": "TAJUL",
+      "blood": "O+",
+      "union": "দেবিদ্দার",
+      "village": "বারেরা",
+      "phone": "01634561920",
+      "available": true
     }
   ]
 }

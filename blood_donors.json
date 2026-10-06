@@ -79,6 +79,14 @@
       "village": "কাশারী খোলা",
       "phone": "01811988441",
       "available": true
+    },
+    {
+      "name": "আরিফুল ইসলাম",
+      "blood": "B+",
+      "union": "এলাহাবাদ",
+      "village": "কুড়াখাল মধ্যে পাড়া",
+      "phone": "01316509507",
+      "available": true
     }
   ]
 }

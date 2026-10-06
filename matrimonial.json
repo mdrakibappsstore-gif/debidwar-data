@@ -44,6 +44,21 @@
       "whatsapp": "+6014856752",
       "photo": "",
       "createdAt": "৫ অক্টোবর, ২০২৬"
+    },
+    {
+      "type": "পাত্র",
+      "name": "মাসুদ",
+      "age": "35",
+      "religion": "ইসলাম",
+      "maritalStatus": "তালাকপাপতা",
+      "height": "৫ফুট৭",
+      "education": "মাষ্টারস",
+      "occupation": "ব্যাবসা",
+      "union": "ইউসুফ পুর",
+      "phone": "01325987880",
+      "whatsapp": "01325987880",
+      "photo": "",
+      "createdAt": "৬ অক্টোবর, ২০২৬"
     }
   ]
 }

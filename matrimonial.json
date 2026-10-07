@@ -104,6 +104,21 @@
       "whatsapp": "01623575022",
       "photo": "",
       "createdAt": "৭ অক্টোবর, ২০২৬"
+    },
+    {
+      "type": "পাত্র",
+      "name": "মোঃ শাকিল খান",
+      "age": "24",
+      "religion": "ইসলাম",
+      "maritalStatus": "অবিবাহিত",
+      "height": "5' 6\"",
+      "education": "SSC",
+      "occupation": "সৌদি প্রবাসী",
+      "union": "রসুলপুর",
+      "phone": "01631902488",
+      "whatsapp": "01631902488",
+      "photo": "",
+      "createdAt": "৭ অক্টোবর, ২০২৬"
     }
   ]
 }

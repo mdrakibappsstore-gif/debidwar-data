@@ -223,6 +223,14 @@
       "village": "গোপালনগর",
       "phone": "01631902488",
       "available": true
+    },
+    {
+      "name": "HM Abdul kader",
+      "blood": "B+",
+      "union": "শিদলাই",
+      "village": "লাড়ুচো",
+      "phone": "01627444522",
+      "available": true
     }
   ]
 }

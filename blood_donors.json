@@ -279,6 +279,14 @@
       "village": "ভিংলাবাড়ি",
       "phone": "01617724257",
       "available": true
+    },
+    {
+      "name": "আলাউদ্দিন",
+      "blood": "B+",
+      "union": "বরকামতা",
+      "village": "বাতাপুকুরিয়া(ওয়ার্ড ০২)",
+      "phone": "01851321105",
+      "available": true
     }
   ]
 }

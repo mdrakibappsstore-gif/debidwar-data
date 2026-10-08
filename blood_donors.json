@@ -255,6 +255,14 @@
       "village": "(কান্দারপাড়া) সাইচাপাড়া",
       "phone": "01766008877",
       "available": true
+    },
+    {
+      "name": "Manjurul Hasan",
+      "blood": "O+",
+      "union": "Sultanpur",
+      "village": "bokrikandi",
+      "phone": "01676156634",
+      "available": true
     }
   ]
 }

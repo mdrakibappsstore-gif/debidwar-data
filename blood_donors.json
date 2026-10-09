@@ -303,6 +303,14 @@
       "village": "উত্তর হামলাবারি",
       "phone": "01633302355",
       "available": true
+    },
+    {
+      "name": "আব্বাসউদ্দিন",
+      "blood": "AB+",
+      "union": "সুবিল",
+      "village": "নারায়ণপুর",
+      "phone": "01829125227",
+      "available": true
     }
   ]
 }

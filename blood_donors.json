@@ -375,6 +375,14 @@
       "village": "khaiyer",
       "phone": "01877279207",
       "available": true
+    },
+    {
+      "name": "হেলাল",
+      "blood": "AB+",
+      "union": "ফতেহাবাদ",
+      "village": "কালিকাপুর",
+      "phone": "01866827683",
+      "available": true
     }
   ]
 }

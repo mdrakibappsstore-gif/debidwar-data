@@ -254,6 +254,21 @@
       "whatsapp": "+8801343795746",
       "photo": "",
       "createdAt": "১৬ অক্টোবর, ২০২৬"
+    },
+    {
+      "type": "পাত্র",
+      "name": "নয়ন দাস",
+      "age": "22",
+      "religion": "হিন্দু",
+      "maritalStatus": "অবিবাহিত",
+      "height": "৫ ফুট ৫ ইঞ্চি",
+      "education": "Hsc",
+      "occupation": "জব",
+      "union": "গুনাইঘড়",
+      "phone": "01606679911",
+      "whatsapp": "01606679911",
+      "photo": "",
+      "createdAt": "২০ অক্টোবর, ২০২৬"
     }
   ]
 }

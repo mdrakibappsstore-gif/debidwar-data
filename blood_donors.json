@@ -463,6 +463,14 @@
       "village": "খলিলপুর",
       "phone": "01758060971",
       "available": true
+    },
+    {
+      "name": "মো: গোলাম মাওলা",
+      "blood": "AB+",
+      "union": "পৌরসভা",
+      "village": "বারেরা পশ্চিমপাড়া",
+      "phone": "01933571740",
+      "available": true
     }
   ]
 }

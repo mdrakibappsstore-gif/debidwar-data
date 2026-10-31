@@ -511,6 +511,14 @@
       "village": "মধু মুরডা",
       "phone": "01646687718",
       "available": true
+    },
+    {
+      "name": "বেলাল হুসাইন",
+      "blood": "AB+",
+      "union": "বরকামতা",
+      "village": "শান্তিনগর",
+      "phone": "01875950629",
+      "available": true
     }
   ]
 }

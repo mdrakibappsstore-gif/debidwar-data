@@ -119,6 +119,16 @@
       "description": "Diploma in physiotherapist",
       "chamber": "Care specilized physiotherapy center, Shapon supar market,Moon Hospital er pase Debidwar Cumilla",
       "photo": ""
+    },
+    {
+      "location": "চান্দিনা সদর",
+      "specializationId": "ent",
+      "name": "ডা. মোঃ নাজমুল হাসান (মিজান)",
+      "phone": "01737220579",
+      "whatsapp": "01737220579",
+      "description": "মেডিসিন ও সাধারণ রোগ\nলিভারের সমস্যা\nডায়াবেটিস\nহাঁপানি\nবাত ও ব্যথা\nমা ও শিশু\nনাক, কান ও গলার সমস্যা\nচর্ম ও যৌন রোগ",
+      "chamber": "চেম্বার: চান্দিনা মেডিনোভা হাসপাতাল অ্যান্ড ডায়াগনস্টিক সেন্টার।\nসোম এবং বুধবার বসে বিকাল ৩ টা থেকে।",
+      "photo": ""
     }
   ]
 }

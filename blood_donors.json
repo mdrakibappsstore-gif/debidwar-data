@@ -591,6 +591,14 @@
       "village": "এলাহাবাদ",
       "phone": "01688693182",
       "available": true
+    },
+    {
+      "name": "মোঃ শাহিন সরকার",
+      "blood": "B+",
+      "union": "রসুলপুর",
+      "village": "আব্দুল্লাহপুর",
+      "phone": "01827240429",
+      "available": true
     }
   ]
 }

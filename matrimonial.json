@@ -329,6 +329,21 @@
       "whatsapp": "01356027149",
       "photo": "",
       "createdAt": "২২ নভেম্বর, ২০২৬"
+    },
+    {
+      "type": "পাত্র",
+      "name": "রনি দত্ত",
+      "age": "25",
+      "religion": "হিন্দু",
+      "maritalStatus": "অবিবাহিত",
+      "height": "5.5",
+      "education": "hsc",
+      "occupation": "জুয়েলারি ব্যাবসা",
+      "union": "দেবিদ্বার",
+      "phone": "01622811305",
+      "whatsapp": "",
+      "photo": "",
+      "createdAt": "২২ নভেম্বর, ২০২৬"
     }
   ]
 }

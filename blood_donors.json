@@ -607,6 +607,14 @@
       "village": "পৌর এলাকার ভিংলাবাড়ী",
       "phone": "01877588281",
       "available": true
+    },
+    {
+      "name": "শাহেদ মাহমুদ রেজা",
+      "blood": "AB+",
+      "union": "বরকামতা",
+      "village": "বরকামতা",
+      "phone": "01992490069",
+      "available": true
     }
   ]
 }
